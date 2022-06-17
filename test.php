@@ -1,3 +1,5 @@
 <?php
-echo "anything second";
-echo "anything second";
+
+echo "hello world";
+echo"bye earth";
+?>
