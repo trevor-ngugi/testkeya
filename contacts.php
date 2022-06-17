@@ -1,4 +1,3 @@
 <?php
-$name="trevor";
-$number=0710519117;
+$trevor="South C"
 ?>
